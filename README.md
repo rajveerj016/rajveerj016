@@ -4,7 +4,7 @@
 🎓 B.Tech CSE from DTU  
 💻 Learning Python and building projects  
 🚀 Interested in Web Dev | Data | Automation  
-📫 Reach me at [email]
+📫 Reach me at rajveerjaat016@gmail.com
 
 ## 🔧 Tech Stack:
 - Languages: Python, C++
