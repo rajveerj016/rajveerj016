@@ -51,14 +51,6 @@ I'm a Full Stack Developer, Data Analysts with expertise in building scalable we
   
   
 
-<br/>  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2819&hide_border=true&layout=compact" alt="Top Languages on GitHub">
-</div>
-
-<br/>  
-
 **<div align="center">Let's connect and see where this goes.</div>**  
   
 <div align="center">
