@@ -44,7 +44,7 @@ I'm a Full Stack Developer, Data Analysts with expertise in building scalable we
   <a href="https://www.linkedin.com/in/rajveer-choudhary-b72982368/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/rajveer_jaat._/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a>  
 </div>
